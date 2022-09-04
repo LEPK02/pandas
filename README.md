@@ -1,7 +1,5 @@
 # Data Analysis with Python
-## Required
-- Any program to open Jupyter Notebook files
-- Otherwise, [use nbviewer](https://nbviewer.jupyter.org/) to view any .ipynb files
+- [View in nbviewer](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Pokemon.ipynb)
 ## Related Links
 ### Related Projects
 - [Problem Set by Keith Galli](https://github.com/LEPK02/CodingNotes/tree/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas) ([view online using nbviewer](https://nbviewer.org/github/LEPK02/CodingNotes/blob/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas.ipynb))
