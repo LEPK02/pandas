@@ -1,5 +1,5 @@
 # Data Analysis with Python
-- [View in nbviewer](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Pokemon.ipynb)
+- [View in nbviewer](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/.ipynb_checkpoints/Pokemon-checkpoint.ipynb)
 ## Related Links
 ### Related Projects
 - [Problem Set by Keith Galli](https://github.com/LEPK02/CodingNotes/tree/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas) ([view online using nbviewer](https://nbviewer.org/github/LEPK02/CodingNotes/blob/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas.ipynb))
