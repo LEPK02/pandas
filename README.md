@@ -2,7 +2,8 @@
 - Restaurant - [view online](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Restaurant/restaurant.ipynb)
 - Pokemon - [view online](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Pokemon/Pokemon.ipynb)
 - My SC1015 Solutions - Introduction to Data Science & Artificial Intelligence Course by NTU
-	- [Property - Exercise 3](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/SC1015/Exercise%203/Exercise3_solution.ipynb)
+	- [Exploratory Data Analysis - Exercise 3](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/SC1015/Exercise%203/Exercise3_solution.ipynb)
+	- [Linear Regression with scikit-learn - Exercise 4](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/SC1015/Exercise%204/Exercise4_solution.ipynb)
 ## Related Links
 ### Related Projects
 - [Problem Set by Keith Galli](https://github.com/LEPK02/CodingNotes/tree/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas) ([view online using nbviewer](https://nbviewer.org/github/LEPK02/CodingNotes/blob/main/Python/Keith%20Galli/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas/Solving%20real%20world%20data%20science%20tasks%20with%20Python%20Pandas.ipynb))
