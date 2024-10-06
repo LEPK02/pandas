@@ -2,6 +2,7 @@
 - Restaurant - [view online](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Restaurant/restaurant.ipynb)
 - Pokemon - [view online](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/Pokemon/Pokemon.ipynb)
 - My SC1015 Solutions - Introduction to Data Science & Artificial Intelligence Course by NTU
+	- [Exploratory Data Analysis - Final Project](https://nbviewer.org/github/LEPK02/sc1015-assignment/blob/main/02_exploratory_analysis.ipynb)
 	- [Exploratory Data Analysis - Exercise 3](https://nbviewer.org/github/LEPK02/pandas-seaborn/blob/main/SC1015/Exercise%203/Exercise3_solution.ipynb)
 ## Related Links
 ### Related Projects
